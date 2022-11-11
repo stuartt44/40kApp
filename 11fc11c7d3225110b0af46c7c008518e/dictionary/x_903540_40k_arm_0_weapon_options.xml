@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="183ff33ad3b61110b0af46c7c00851bd" label="Weapon Options" max_length="40" name="x_903540_40k_arm_0_weapon_options" type="collection">
+        <element attributes="encode_utf8=false" label="Datasheet ID" max_length="32" name="datasheet_id" reference="x_903540_40k_arm_0_units" type="reference"/>
+        <element label="Description" max_length="5000" name="description" type="string"/>
+        <element label="Is index wargear" max_length="40" name="is_index_wargear" type="boolean"/>
+        <element label="Line" max_length="40" name="line" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="datasheet_id"/>
+        </index>
+    </element>
+</database>

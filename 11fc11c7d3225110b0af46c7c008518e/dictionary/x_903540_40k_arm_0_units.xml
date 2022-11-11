@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c5d8248d33e1510b0af46c7c0085126" label="Units" max_length="40" name="x_903540_40k_arm_0_units" type="collection">
+        <element label="Cost per Model" max_length="40" name="cost" type="integer"/>
+        <element label="Single Unit Cost" max_length="40" name="cost_per_unit" type="boolean"/>
+        <element label="Crusade only" max_length="40" name="crusade_only" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Faction" max_length="32" name="faction_id" reference="x_903540_40k_arm_0_factions" type="reference"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="500" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Open play only" max_length="40" name="open_play_only" type="boolean"/>
+        <element label="Power Points" max_length="40" name="power_points" type="integer"/>
+        <element label="Priest Abilities" max_length="65536" name="priest" type="html"/>
+        <element label="Psyker Abilities" max_length="65536" name="psyker" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Role" max_length="40" name="role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="HQ" sequence="1" value="HQ"/>
+                <element inactive_on_update="false" label="Troops" sequence="2" value="Troops"/>
+                <element inactive_on_update="false" label="Elites" sequence="3" value="Elites"/>
+                <element inactive_on_update="false" label="Fast Attack" sequence="4" value="Fast Attack"/>
+                <element inactive_on_update="false" label="Heavy Support" sequence="5" value="Heavy Support"/>
+                <element inactive_on_update="false" label="Dedicated Transport" sequence="6" value="Dedicated Transport"/>
+                <element inactive_on_update="false" label="Flyers" sequence="7" value="Flyers"/>
+                <element inactive_on_update="false" label="Lords of War" sequence="8" value="Lords of War"/>
+                <element inactive_on_update="false" label="Fortifications" sequence="9" value="Fortifications"/>
+            </choice>
+        </element>
+        <element label="Transport Capacity" max_length="40" name="transport" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Unit Composition" max_length="2000" name="unit_composition" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Virtual" max_length="1000" name="virtual" type="string"/>
+        <index name="index">
+            <element name="faction_id"/>
+        </index>
+    </element>
+</database>

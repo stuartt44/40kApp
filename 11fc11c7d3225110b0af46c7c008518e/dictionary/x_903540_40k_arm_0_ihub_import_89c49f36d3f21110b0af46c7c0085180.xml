@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75155776d3f21110b0af46c7c0085131" extends="sys_import_set_row" label="Wargear Link Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_89c49f36d3f21110b0af46c7c0085180" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cost" label="cost" max_length="40" name="u_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_8" label="field_8" max_length="40" name="u_field_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_index_wargear" label="is_index_wargear" max_length="40" name="u_is_index_wargear" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_upgrade" label="is_upgrade" max_length="40" name="u_is_upgrade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id" label="ï»¿datasheet_id" max_length="40" name="u_ï__datasheet_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=line" label="line" max_length="40" name="u_line" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=model" label="model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=wargear_id" label="wargear_id" max_length="40" name="u_wargear_id" type="string"/>
+    </element>
+</database>

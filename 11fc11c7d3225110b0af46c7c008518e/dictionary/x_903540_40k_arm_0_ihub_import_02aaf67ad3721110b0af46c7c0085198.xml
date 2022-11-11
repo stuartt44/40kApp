@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="673c7afad3721110b0af46c7c008517e" extends="sys_import_set_row" label="Wargear Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_02aaf67ad3721110b0af46c7c0085198" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="1000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=faction_id" label="faction_id" max_length="40" name="u_faction_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=faction_name" label="faction_name" max_length="40" name="u_faction_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_10" label="field_10" max_length="40" name="u_field_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_relic" label="is_relic" max_length="40" name="u_is_relic" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿id" label="ï»¿id" max_length="40" name="u_ï__id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=legend" label="legend" max_length="40" name="u_legend" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=legend" label="legend,,,,,,,,,,,,,,," max_length="40" name="u_legend_______________" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source_id" label="source_id" max_length="40" name="u_source_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=type" label="type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name" label=",,,,,,,,,,,,,,," max_length="40" name="u________________" type="string"/>
+    </element>
+</database>

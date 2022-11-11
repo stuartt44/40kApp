@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c9f9ef04d3475110b0af46c7c008515d" label="x_903540_40k_arm_0_m2m_Stratagems_Units" max_length="40" name="x_903540_40k_arm_0_m2m_x_903540_40_x_903540_40" type="collection">
+        <element attributes="encode_utf8=false" label="Stratagems" max_length="32" name="x_903540_40k_arm_0_stratagems" reference="x_903540_40k_arm_0_stratagems" type="reference"/>
+        <element attributes="encode_utf8=false" label="Units" max_length="32" name="x_903540_40k_arm_0_units" reference="x_903540_40k_arm_0_units" type="reference"/>
+        <index name="index">
+            <element name="x_903540_40k_arm_0_stratagems"/>
+        </index>
+        <index name="index2">
+            <element name="x_903540_40k_arm_0_units"/>
+        </index>
+    </element>
+</database>

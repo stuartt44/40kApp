@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Stratafen Transform">1de723c0d3475110b0af46c7c0085180</map>
+        <reference_value_field/>
+        <source_field>u_name</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_903540_40k_arm_0_ihub_import_79a6eb40d3475110b0af46c7c0085147</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:56:09</sys_created_on>
+        <sys_id>47f76b80d3475110b0af46c7c0085190</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_name</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_transform_entry_47f76b80d3475110b0af46c7c0085190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 11:56:09</sys_updated_on>
+        <target_field>name</target_field>
+        <target_table>x_903540_40k_arm_0_stratagems</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</application>
+        <file_path/>
+        <instance_id>9a541b94db159d142f68c59705961928</instance_id>
+        <instance_name>dev131213</instance_name>
+        <name>sys_transform_entry_47f76b80d3475110b0af46c7c0085190</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Stratafen Transform"&gt;1de723c0d3475110b0af46c7c0085180&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_name&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_903540_40k_arm_0_ihub_import_79a6eb40d3475110b0af46c7c0085147&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-04 11:56:09&lt;/sys_created_on&gt;&lt;sys_id&gt;47f76b80d3475110b0af46c7c0085190&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_name&lt;/sys_name&gt;&lt;sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0"&gt;11fc11c7d3225110b0af46c7c008518e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="40k Army Builder"&gt;11fc11c7d3225110b0af46c7c008518e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_47f76b80d3475110b0af46c7c0085190&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-04 11:56:09&lt;/sys_updated_on&gt;&lt;target_field&gt;name&lt;/target_field&gt;&lt;target_table&gt;x_903540_40k_arm_0_stratagems&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1568361931</payload_hash>
+        <record_name>u_name</record_name>
+        <reverted_from/>
+        <source>15fc11c7d3225110b0af46c7c0085190</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:56:09</sys_created_on>
+        <sys_id>47f76b80d3475110b0af46c7c0085192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184427f9b710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 11:56:09</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>8ff76b802d47511089080ea89455ff91</update_guid>
+        <update_guid_history>8ff76b802d47511089080ea89455ff91:-1568361931</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:56:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>5d7e15e42cc145939e82ecee08e0a0b9</sys_id>
+        <sys_metadata>47f76b80d3475110b0af46c7c0085190</sys_metadata>
+        <sys_name>u_name</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_scope_delete display_value="">43817be8cbe94ca89d7df1e1e206e224</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_47f76b80d3475110b0af46c7c0085190</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_47f76b80d3475110b0af46c7c0085190">47f76b80d3475110b0af46c7c0085192</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

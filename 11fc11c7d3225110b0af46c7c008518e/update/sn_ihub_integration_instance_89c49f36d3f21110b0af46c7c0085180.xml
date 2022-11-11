@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Import</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Wargear Link Import</name>
+        <record_id>c9c49f36d3f21110b0af46c7c0085181</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 13:19:47</sys_created_on>
+        <sys_id>89c49f36d3f21110b0af46c7c0085180</sys_id>
+        <sys_name>Wargear Link Import</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_89c49f36d3f21110b0af46c7c0085180</sys_update_name>
+    </sn_ihub_integration_instance>
+</record_update>

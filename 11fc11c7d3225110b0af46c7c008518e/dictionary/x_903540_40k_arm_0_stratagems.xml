@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="00962b40d3475110b0af46c7c008513e" label="Stratagems" max_length="40" name="x_903540_40k_arm_0_stratagems" type="collection">
+        <element label="Available For" max_length="4000" name="available_for" reference="x_903540_40k_arm_0_units" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Cp cost" max_length="40" name="cp_cost" type="string"/>
+        <element label="Description" max_length="65536" name="description" type="html"/>
+        <element attributes="encode_utf8=false" label="Faction ID" max_length="32" name="faction_id" reference="x_903540_40k_arm_0_factions" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="749" name="id" type="string"/>
+        <element label="Legend" max_length="65536" name="legend" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="500" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phases" max_length="4000" name="phases" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Subfaction ID" max_length="32" name="subfaction_id" reference="x_903540_40k_arm_0_factions" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="100" name="type" type="string"/>
+        <index name="index">
+            <element name="faction_id"/>
+        </index>
+        <index name="index2">
+            <element name="subfaction_id"/>
+        </index>
+    </element>
+</database>

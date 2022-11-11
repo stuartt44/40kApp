@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="04a2468cd3fa1510b0af46c7c00851c1" label="Factions" max_length="40" name="x_903540_40k_arm_0_factions" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID" mandatory="true" max_length="40" name="id" type="string"/>
+        <element label="Is subfaction" max_length="40" name="is_subfaction" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="128" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent faction" max_length="40" name="parent_faction" reference="x_903540_40k_arm_0_factions" type="reference"/>
+    </element>
+</database>

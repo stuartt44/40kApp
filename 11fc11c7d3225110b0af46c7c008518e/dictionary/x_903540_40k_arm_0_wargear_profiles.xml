@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="618d437ed3b21110b0af46c7c00851f6" label="Wargear Profiles" max_length="40" name="x_903540_40k_arm_0_wargear_profiles" type="collection">
+        <element attributes="edge_encryption_enabled=true,no_truncate=false" label="Abilities" max_length="1000" name="abilities" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AP" max_length="40" name="ap" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="D" max_length="40" name="d" type="string"/>
+        <element label="Line" max_length="40" name="line" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Range" max_length="40" name="range" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S" max_length="40" name="s" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+        <element attributes="encode_utf8=false" label="Wargear ID" max_length="32" name="wargear_id" reference="x_903540_40k_arm_0_wargear" type="reference"/>
+        <index name="index">
+            <element name="wargear_id"/>
+        </index>
+    </element>
+</database>

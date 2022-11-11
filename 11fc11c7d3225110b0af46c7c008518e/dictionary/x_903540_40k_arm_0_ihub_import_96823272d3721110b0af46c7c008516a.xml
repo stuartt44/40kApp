@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8b2f272d3721110b0af46c7c0085182" extends="sys_import_set_row" label="Model Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_96823272d3721110b0af46c7c008516a" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="40" name="u_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=base_size" label="base_size" max_length="40" name="u_base_size" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=base_size_descr" label="base_size_descr" max_length="40" name="u_base_size_descr" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BS" label="BS" max_length="40" name="u_bs" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cost_description" label="cost_description" max_length="500" name="u_cost_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cost_including_wargear" label="cost_including_wargear" max_length="40" name="u_cost_including_wargear" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_19" label="field_19" max_length="40" name="u_field_19" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id" label="ï»¿datasheet_id" max_length="40" name="u_ï__datasheet_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id|line|name|M|WS|BS|S|T|W|A|Ld|Sv|Cost|cost_description|models_per_unit|cost_including_wargear|base_size|base_size_descr|" label="ï»¿datasheet_id|line|name|M|WS|BS|S|T|W|A|Ld|Sv|Cost|cost_description|models_per" max_length="40" name="u_ï__datasheet_se_size_descr_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ld" label="Ld" max_length="40" name="u_ld" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=line" label="line" max_length="40" name="u_line" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=M" label="M" max_length="40" name="u_m" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=models_per_unit" label="models_per_unit" max_length="40" name="u_models_per_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=S" label="S" max_length="40" name="u_s" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sv" label="Sv" max_length="40" name="u_sv" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=T" label="T" max_length="40" name="u_t" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=W" label="W" max_length="40" name="u_w" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WS" label="WS" max_length="40" name="u_ws" type="string"/>
+    </element>
+</database>

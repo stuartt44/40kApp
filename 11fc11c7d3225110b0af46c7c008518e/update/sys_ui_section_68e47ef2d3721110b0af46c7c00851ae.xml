@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Stats" section_id="68e47ef2d3721110b0af46c7c00851ae" sys_domain="global" table="x_903540_40k_arm_0_models" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>m</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f4e4bef2d3721110b0af46c7c0085147</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ws</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f8e4bef2d3721110b0af46c7c0085147</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bs</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>fce4bef2d3721110b0af46c7c0085147</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>s</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f0e4bef2d3721110b0af46c7c0085148</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>t</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f4e4bef2d3721110b0af46c7c0085148</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f8e4bef2d3721110b0af46c7c0085148</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>w</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>fce4bef2d3721110b0af46c7c0085148</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sv</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f0e4bef2d3721110b0af46c7c0085149</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ld</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:30</sys_created_on>
+            <sys_id>f4e4bef2d3721110b0af46c7c0085149</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_903540_40k_arm_0_models" sys_domain="global" view="Default view">68e47ef2d3721110b0af46c7c00851ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-31 11:00:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Stats</caption>
+            <header>false</header>
+            <name>x_903540_40k_arm_0_models</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-31 11:00:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68e47ef2d3721110b0af46c7c00851ae</sys_id>
+            <sys_name>x_903540_40k_arm_0_models</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+            <sys_update_name>sys_ui_section_68e47ef2d3721110b0af46c7c00851ae</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

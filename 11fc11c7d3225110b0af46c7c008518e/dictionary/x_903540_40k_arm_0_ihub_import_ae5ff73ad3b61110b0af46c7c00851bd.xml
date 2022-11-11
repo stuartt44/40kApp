@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="088fbb3ad3b61110b0af46c7c008519e" extends="sys_import_set_row" label="Weapon Options Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_ae5ff73ad3b61110b0af46c7c00851bd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=button" label="button" max_length="40" name="u_button" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="760" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_6" label="field_6" max_length="40" name="u_field_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_index_wargear" label="is_index_wargear" max_length="40" name="u_is_index_wargear" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id" label="ï»¿datasheet_id" max_length="40" name="u_ï__datasheet_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=line" label="line" max_length="40" name="u_line" type="string"/>
+    </element>
+</database>

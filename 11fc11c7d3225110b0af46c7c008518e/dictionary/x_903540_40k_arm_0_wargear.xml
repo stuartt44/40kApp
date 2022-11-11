@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="48e83af6d3721110b0af46c7c00851ba" label="Wargear" max_length="40" name="x_903540_40k_arm_0_wargear" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="html"/>
+        <element attributes="encode_utf8=false" label="Faction ID" max_length="32" name="faction_id" reference="x_903540_40k_arm_0_factions" type="reference"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Is relic" max_length="40" name="is_relic" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Legend" max_length="500" name="legend" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="200" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="200" name="type" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="faction_id"/>
+        </index>
+    </element>
+</database>

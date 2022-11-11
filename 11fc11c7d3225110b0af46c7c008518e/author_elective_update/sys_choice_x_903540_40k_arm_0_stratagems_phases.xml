@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="phases" table="x_903540_40k_arm_0_stratagems" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>phases</element>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:01</sys_created_on>
+            <sys_name>phases</sys_name>
+            <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+            <sys_update_name>sys_choice_x_903540_40k_arm_0_stratagems_phases</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any of your phases</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:28:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Any of your phases</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:28:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Any phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any time</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Any time</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>At the start of battle round</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>At the start of battle round</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>At the start of enemy turn</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>At the start of enemy turn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>At the start of your turn</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>At the start of your turn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Before battle</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Before battle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Being targeted</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Being targeted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Charge phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Charge phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Command phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:29:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Command phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>During deployment</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>During deployment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>End of your turn</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>End of your turn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Charge phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Charge phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Command phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Command phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Fight phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Fight phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Morale phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Morale phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Movement phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Movement phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Psychic phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Psychic phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy Shooting phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy Shooting phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enemy taking casualties</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:30:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Enemy taking casualties</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fight phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Fight phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Morale phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Morale phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Movement phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:26:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Movement phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Psychic phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Psychic phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shooting phase</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:25:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Shooting phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phases</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Taking casualties</label>
+            <language>en</language>
+            <name>x_903540_40k_arm_0_stratagems</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-04 12:31:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Taking casualties</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

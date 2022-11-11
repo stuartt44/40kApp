@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3242ba32d3721110b0af46c7c008517a" label="Models" max_length="40" name="x_903540_40k_arm_0_models" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="A" max_length="40" name="a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Base size" max_length="40" name="base_size" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Base Size Description" max_length="40" name="base_size_descr" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="BS" max_length="40" name="bs" type="string"/>
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost description" max_length="250" name="cost_description" type="string"/>
+        <element label="Cost including wargear" max_length="40" name="cost_including_wargear" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Main Datasheet" max_length="32" name="datasheet_id" reference="x_903540_40k_arm_0_units" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Ld" max_length="40" name="ld" type="string"/>
+        <element label="Order" max_length="40" name="line" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="M" max_length="40" name="m" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Models per unit" max_length="40" name="models_per_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="250" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S" max_length="40" name="s" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sv" max_length="40" name="sv" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="T" max_length="40" name="t" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W" max_length="40" name="w" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="WS" max_length="40" name="ws" type="string"/>
+        <index name="index">
+            <element name="datasheet_id"/>
+        </index>
+    </element>
+</database>

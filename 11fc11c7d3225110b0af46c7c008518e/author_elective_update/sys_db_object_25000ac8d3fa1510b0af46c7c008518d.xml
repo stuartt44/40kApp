@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>40k Arm 0 1666461973475</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_903540_40k_arm_0_1666461973475</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">a5efc2e0f90211108c8bd16244dfe716</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-22 18:06:14</sys_created_on>
+        <sys_id>25000ac8d3fa1510b0af46c7c008518d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>40k Arm 0 1666461973475</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_db_object_25000ac8d3fa1510b0af46c7c008518d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-22 18:06:14</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</application>
+        <file_path/>
+        <instance_id>9a541b94db159d142f68c59705961928</instance_id>
+        <instance_name>dev131213</instance_name>
+        <name>sys_db_object_25000ac8d3fa1510b0af46c7c008518d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>40k Arm 0 1666461973475</label><live_feed_enabled>false</live_feed_enabled><name>x_903540_40k_arm_0_1666461973475</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">a5efc2e0f90211108c8bd16244dfe716</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-22 18:06:14</sys_created_on><sys_id>25000ac8d3fa1510b0af46c7c008518d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>40k Arm 0 1666461973475</sys_name><sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package><sys_policy/><sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope><sys_update_name>sys_db_object_25000ac8d3fa1510b0af46c7c008518d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-22 18:06:14</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>307602748</payload_hash>
+        <record_name>40k Arm 0 1666461973475</record_name>
+        <reverted_from/>
+        <source>15fc11c7d3225110b0af46c7c0085190</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-22 18:06:15</sys_created_on>
+        <sys_id>7d000ac8d3fa1510b0af46c7c00851d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18400dfc2200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-22 18:06:15</sys_updated_on>
+        <type>Table</type>
+        <update_guid>f5000ac80cfa15107e165b16510d1dd4</update_guid>
+        <update_guid_history>f5000ac80cfa15107e165b16510d1dd4:307602748</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-22 18:07:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>04d9437f3229443b802f25c9adbd7bf1</sys_id>
+        <sys_metadata>25000ac8d3fa1510b0af46c7c008518d</sys_metadata>
+        <sys_name>40k Arm 0 1666461973475</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_scope_delete display_value="">43817be8cbe94ca89d7df1e1e206e224</sys_scope_delete>
+        <sys_update_name>sys_db_object_25000ac8d3fa1510b0af46c7c008518d</sys_update_name>
+        <sys_update_version display_value="sys_db_object_25000ac8d3fa1510b0af46c7c008518d">7d000ac8d3fa1510b0af46c7c00851d4</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

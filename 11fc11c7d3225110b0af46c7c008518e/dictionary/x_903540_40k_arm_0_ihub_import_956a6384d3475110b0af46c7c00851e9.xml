@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6fca2b84d3475110b0af46c7c0085125" extends="sys_import_set_row" label="Stratagem Link Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_956a6384d3475110b0af46c7c00851e9" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_3" label="field_3" max_length="40" name="u_field_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id" label="ï»¿datasheet_id" max_length="40" name="u_ï__datasheet_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=stratagem_id" label="stratagem_id" max_length="40" name="u_stratagem_id" type="string"/>
+    </element>
+</database>

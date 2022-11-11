@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="095306ccd3fa1510b0af46c7c0085189" extends="sys_import_set_row" label="Initial Factions" max_length="40" name="x_903540_40k_arm_0_ihub_import_99d28a8cd3fa1510b0af46c7c0085187" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_6" label="field_6" max_length="40" name="u_field_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_subfaction" label="is_subfaction" max_length="40" name="u_is_subfaction" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿id" label="ï»¿id" max_length="40" name="u_ï__id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=link" label="link" max_length="77" name="u_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=parent_id" label="parent_id" max_length="40" name="u_parent_id" type="string"/>
+    </element>
+</database>

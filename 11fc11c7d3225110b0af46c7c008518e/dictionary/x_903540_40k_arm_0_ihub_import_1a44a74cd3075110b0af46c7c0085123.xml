@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2e746b4cd3075110b0af46c7c00851e8" extends="sys_import_set_row" label="Keyword Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_1a44a74cd3075110b0af46c7c0085123" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_5" label="field_5" max_length="40" name="u_field_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_faction_keyword" label="is_faction_keyword" max_length="40" name="u_is_faction_keyword" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿datasheet_id" label="ï»¿datasheet_id" max_length="40" name="u_ï__datasheet_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=keyword" label="keyword" max_length="45" name="u_keyword" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=model" label="model" max_length="40" name="u_model" type="string"/>
+    </element>
+</database>

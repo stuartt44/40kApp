@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Stratagem Link Transform">09fa6b84d3475110b0af46c7c008512d</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	var output = "";
+	var unit = "";
+	
+	//Get unit record
+	var uGr = new GlideRecord("x_903540_40k_arm_0_units");
+	uGr.addQuery("id",source.u_ï__datasheet_id);
+	uGr.query();
+
+	while (uGr.next()) {
+		output = uGr.sys_id;
+	}
+	
+
+	//Get current stratagem available fors
+	var gr = new GlideRecord("x_903540_40k_arm_0_stratagems");
+	gr.addQuery("id",source.u_stratagem_id);
+	gr.query();
+	
+	while(gr.next()) {
+		if (gr.available_for) {
+			output += "," + gr.available_for;
+		}
+	}
+
+	// Add your code here
+	target.available_for = output; // return the value to be put into the target field
+
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 13:53:30</sys_created_on>
+        <sys_id>38a20058d3c75110b0af46c7c00851c9</sys_id>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_transform_script_38a20058d3c75110b0af46c7c00851c9</sys_update_name>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

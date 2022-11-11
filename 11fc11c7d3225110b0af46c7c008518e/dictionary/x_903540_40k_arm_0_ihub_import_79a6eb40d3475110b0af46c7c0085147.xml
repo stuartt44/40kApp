@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c9382bc0d3475110b0af46c7c0085158" extends="sys_import_set_row" label="Stratagem Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_79a6eb40d3475110b0af46c7c0085147" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cp_cost" label="cp_cost" max_length="40" name="u_cp_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="2721" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_10" label="field_10" max_length="40" name="u_field_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=id" label="id" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿faction_id" label="ï»¿faction_id" max_length="40" name="u_ï__faction_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=legend" label="legend" max_length="369" name="u_legend" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source_id" label="source_id" max_length="40" name="u_source_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=subfaction_id" label="subfaction_id" max_length="40" name="u_subfaction_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=type" label="type" max_length="59" name="u_type" type="string"/>
+    </element>
+</database>

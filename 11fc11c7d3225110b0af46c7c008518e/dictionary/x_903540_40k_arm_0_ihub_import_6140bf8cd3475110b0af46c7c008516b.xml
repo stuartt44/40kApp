@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="08c0b7ccd3475110b0af46c7c0085166" extends="sys_import_set_row" label="Stratagem Phase Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_6140bf8cd3475110b0af46c7c008516b" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_3" label="field_3" max_length="40" name="u_field_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿stratagem_id" label="ï»¿stratagem_id" max_length="40" name="u_ï__stratagem_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=phase" label="phase" max_length="40" name="u_phase" type="string"/>
+    </element>
+</database>

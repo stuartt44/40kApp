@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_903540_40k_arm_0_armies">x_903540_40k_arm_0_armies</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ARM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 15:16:13</sys_created_on>
+        <sys_id>e5c55458d34b5110b0af46c7c0085116</sys_id>
+        <sys_name>ARM</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_number_e5c55458d34b5110b0af46c7c0085116</sys_update_name>
+    </sys_number>
+</record_update>

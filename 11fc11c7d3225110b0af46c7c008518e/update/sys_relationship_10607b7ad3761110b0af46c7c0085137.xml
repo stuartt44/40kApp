@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_903540_40k_arm_0_units</basic_apply_to>
+        <basic_query_from>x_903540_40k_arm_0_wargear_profiles</basic_query_from>
+        <insert_callback/>
+        <name>Weapon Profiles</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+	var sourceUnit = parent.sys_id;
+	var weapons = "";
+	//Get wargear records
+	var gr = new GlideRecord("x_903540_40k_arm_0_wargear_links");
+	gr.addQuery("datasheet_id",sourceUnit);
+	gr.query();
+	//Add wargear records for query
+	while (gr.next()) {
+		weapons += gr.wargear_id +",";
+	}
+	//Query the profiles
+	current.addQuery("wargear_id","IN",weapons);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 15:25:26</sys_created_on>
+        <sys_id>10607b7ad3761110b0af46c7c0085137</sys_id>
+        <sys_name>Weapon Profiles</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_relationship_10607b7ad3761110b0af46c7c0085137</sys_update_name>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=10607b7ad3761110b0af46c7c0085137"/>
+</record_update>

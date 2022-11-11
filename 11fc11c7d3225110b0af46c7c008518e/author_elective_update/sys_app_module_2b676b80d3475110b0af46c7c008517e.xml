@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Stratagem Import</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_903540_40k_arm_0_ihub_import_79a6eb40d3475110b0af46c7c0085147</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:53:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b676b80d3475110b0af46c7c008517e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stratagem Import</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_update_name>sys_app_module_2b676b80d3475110b0af46c7c008517e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 11:53:43</sys_updated_on>
+        <timeline_page/>
+        <title>Stratagem Import</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</application>
+        <file_path/>
+        <instance_id>9a541b94db159d142f68c59705961928</instance_id>
+        <instance_name>dev131213</instance_name>
+        <name>sys_app_module_2b676b80d3475110b0af46c7c008517e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Stratagem Import</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_903540_40k_arm_0_ihub_import_79a6eb40d3475110b0af46c7c0085147</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 11:53:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2b676b80d3475110b0af46c7c008517e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Stratagem Import</sys_name><sys_overrides/><sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package><sys_policy/><sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope><sys_update_name>sys_app_module_2b676b80d3475110b0af46c7c008517e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 11:53:43</sys_updated_on><timeline_page/><title>Stratagem Import</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1490156251</payload_hash>
+        <record_name>Stratagem Import</record_name>
+        <reverted_from/>
+        <source>15fc11c7d3225110b0af46c7c0085190</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:53:43</sys_created_on>
+        <sys_id>2b676b80d3475110b0af46c7c0085180</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184427d610b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 11:53:43</sys_updated_on>
+        <type>Module</type>
+        <update_guid>63676b80f547511003c541f478ca8480</update_guid>
+        <update_guid_history>63676b80f547511003c541f478ca8480:1490156251</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Stratagem Import">af1867c0d3475110b0af46c7c008516c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:56:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01e18572c9bf476d97b0aca7f0b179e9</sys_id>
+        <sys_metadata>2b676b80d3475110b0af46c7c008517e</sys_metadata>
+        <sys_name>Stratagem Import</sys_name>
+        <sys_package display_value="40k Army Builder" source="x_903540_40k_arm_0">11fc11c7d3225110b0af46c7c008518e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="40k Army Builder">11fc11c7d3225110b0af46c7c008518e</sys_scope>
+        <sys_scope_delete display_value="">43817be8cbe94ca89d7df1e1e206e224</sys_scope_delete>
+        <sys_update_name>sys_app_module_2b676b80d3475110b0af46c7c008517e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2b676b80d3475110b0af46c7c008517e">2b676b80d3475110b0af46c7c0085180</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

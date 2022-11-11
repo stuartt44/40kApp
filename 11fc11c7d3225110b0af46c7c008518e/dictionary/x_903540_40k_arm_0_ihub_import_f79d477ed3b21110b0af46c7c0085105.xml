@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5bd877ed3b21110b0af46c7c00851f5" extends="sys_import_set_row" label="Wargear Profile Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_f79d477ed3b21110b0af46c7c0085105" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=abilities" label="abilities" max_length="1094" name="u_abilities" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AP" label="AP" max_length="40" name="u_ap" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_10" label="field_10" max_length="40" name="u_field_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿wargear_id" label="ï»¿wargear_id" max_length="40" name="u_ï__wargear_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=line" label="line" max_length="40" name="u_line" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="42" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Range" label="Range" max_length="40" name="u_range" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=S" label="S" max_length="40" name="u_s" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=type" label="type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

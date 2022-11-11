@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b40ece48d33e1510b0af46c7c0085136" extends="sys_import_set_row" label="Unit Import" max_length="40" name="x_903540_40k_arm_0_ihub_import_b5bd8a48d33e1510b0af46c7c008513e" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cost_per_unit" label="cost_per_unit" max_length="40" name="u_cost_per_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=crusade_only" label="crusade_only" max_length="40" name="u_crusade_only" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=faction_id" label="faction_id" max_length="40" name="u_faction_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_17" label="field_17" max_length="40" name="u_field_17" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿id" label="ï»¿id" max_length="40" name="u_ï__id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=link" label="link" max_length="106" name="u_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="50" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=open_play_only" label="open_play_only" max_length="40" name="u_open_play_only" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=power_points" label="power_points" max_length="40" name="u_power_points" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=priest" label="priest" max_length="967" name="u_priest" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=psyker" label="psyker" max_length="2143" name="u_psyker" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=role" label="role" max_length="40" name="u_role" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source_id" label="source_id" max_length="40" name="u_source_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=transport" label="transport" max_length="5000" name="u_transport" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=unit_composition" label="unit_composition" max_length="1269" name="u_unit_composition" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=virtual" label="virtual" max_length="40" name="u_virtual" type="string"/>
+    </element>
+</database>
